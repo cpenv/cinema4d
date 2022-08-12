@@ -1,0 +1,12 @@
+name: cinema4d
+version: '25'
+description: Cinema4D Environment Variables.
+author: 'Maxon'
+email: ''
+requires: []
+environment:
+  PATH:
+    - win: 'C:/Program Files/Maxon Cinema 4D R25'
+      mac: '/Applications/Maxon Cinema 4D R25'
+  C4D_VERSION_INT: '25'
+  C4D_VERSION: 'R25'
